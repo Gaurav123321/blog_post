@@ -1,10 +1,10 @@
-# page2cirucit
+# BLOG_POST
 
-The objective of a page2circuit is to automate the converion a hand drawn circuit image into digitally generated schematics. The software is primarily developed in Python and currently hosted on Streamlit platform; one can try it out here --> [page2circuit](https://gadhvirushiraj-page2circuit-webapp-hvznh0.streamlit.app/)
+The objective of a BLOG_POST is to automate the converion a hand drawn circuit image into digitally generated schematics.
 
 ---
 
-# p2c in LIVE ACTION
+# BLOG_POST in LIVE ACTION
 
 ![website view](./readme_img/live_action.png)
 
